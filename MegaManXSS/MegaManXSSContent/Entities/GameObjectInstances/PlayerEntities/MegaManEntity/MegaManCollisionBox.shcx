@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShapeCollectionSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AxisAlignedRectangleSaves>
+    <AxisAlignedRectangleSave>
+      <X>1.78960252</X>
+      <Y>-1.34637749</Y>
+      <Z>0</Z>
+      <ScaleX>7.261097</ScaleX>
+      <ScaleY>15.1680737</ScaleY>
+      <Name>AxisAlignedRectangle1</Name>
+      <Alpha>0</Alpha>
+      <Red>0</Red>
+      <Green>1</Green>
+      <Blue>0</Blue>
+    </AxisAlignedRectangleSave>
+  </AxisAlignedRectangleSaves>
+  <AxisAlignedCubeSaves />
+  <PolygonSaves />
+  <CircleSaves />
+  <SphereSaves />
+</ShapeCollectionSave>

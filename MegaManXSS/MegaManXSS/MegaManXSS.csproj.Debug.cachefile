@@ -1,0 +1,17 @@
+Content\Entities\Debugging\DebugWindowEntity\debugFont.fnt
+Content\Entities\Debugging\DebugWindowEntity\debugFont_0.png
+Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManAnimationChainList.achx
+Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManCollisionBox.shcx
+Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManScene.scnx
+Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegamanX.png
+Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\BusterAnimations.achx
+Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\BusterProjectileScene.scnx
+Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\CollisionBoxShapeCollection.shcx
+Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\Items.png
+Content\Entities\PlatformerCharacterBase\MovementValues.csv
+Content\Screens\GameScreen\Background.scnx
+Content\Screens\GameScreen\LevelCollisionShapes.shcx
+Content\screens\gamescreen\maverickbackground.png
+Content\Screens\SplashScreen\frblogo512.png
+Content\Screens\SplashScreen\SceneFile.scnx
+redball.BMP

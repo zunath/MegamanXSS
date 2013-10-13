@@ -1,0 +1,3 @@
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSSContent\obj\x86\Debug\MegaManXSSContent.contentprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSSContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSSContent\obj\x86\Debug\MegaManXSSContent.contentprojResolveAssemblyReference.cache

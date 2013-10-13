@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimationChainArraySave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileRelativeTextures>true</FileRelativeTextures>
+  <TimeMeasurementUnit>Undefined</TimeMeasurementUnit>
+  <AnimationChain>
+    <Name>NormalBuster</Name>
+    <ColorKey>0</ColorKey>
+    <Frame>
+      <FlipHorizontal>false</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>Items.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>0.123632386</LeftCoordinate>
+      <RightCoordinate>0.13238512</RightCoordinate>
+      <TopCoordinate>0.306766063</TopCoordinate>
+      <BottomCoordinate>0.3102064</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+  </AnimationChain>
+  <AnimationChain>
+    <Name>MediumBuster</Name>
+    <ColorKey>0</ColorKey>
+  </AnimationChain>
+  <AnimationChain>
+    <Name>HeavyBuster</Name>
+    <ColorKey>0</ColorKey>
+  </AnimationChain>
+  <FileName>C:/Users/Tyler/Documents/Visual Studio 2010/Projects/MegaManXSS/MegaManXSS/MegaManXSSContent/Entities/GameObjectInstances/ProjectileEntities/PlayerProjectiles/BusterProjectile/BusterAnimations.achx</FileName>
+</AnimationChainArraySave>

@@ -1,0 +1,119 @@
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\redball.BMP
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManAnimationChainList.achx
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManCollisionBox.shcx
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManScene.scnx
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\GameScreen\Background.scnx
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\screens\gamescreen\maverickbackground.png
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\MegaManXSS.exe
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\MegaManXSS.pdb
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\FlatRedBall.dll
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\FlatRedBall.xml
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.exe
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.pdb
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\GameScreen\LevelCollisionShapes.shcx
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\Debugging\DebugWindowEntity\debugFont.fnt
+C:\Users\Tyler\documents\visual studio 2010\Projects\MegamanXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\Debugging\DebugWindowEntity\debugFont_0.png
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\redball.BMP
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\Debugging\DebugWindowEntity\debugFont.fnt
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\Debugging\DebugWindowEntity\debugFont_0.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbcomplete_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbcomplete_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbingandshooting_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbing_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbing_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbing_03.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbing_04.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\climbing_05.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\damaged_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\damaged_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\damaged_03.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\dashingandshooting_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\dashingandshooting_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\dashing_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\dashing_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\idlelowlife_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\idlelowlife_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\idlelowlife_03.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\idle_1.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\idle_2.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\idle_3.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\idle_4.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\jumping_01.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\jumping_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\jumping_03.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\jumping_04.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\jumping_05.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\jumping_06.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\jumping_07.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManAnimationChainList.achx
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManCollisionBox.shcx
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManScene.scnx
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_02.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_03.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_04.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_05.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_06.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_07.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_08.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_09.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_10.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\movingandshooting_11.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_1.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_10.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_11.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_2.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_3.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_4.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_5.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_6.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_7.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_8.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\moving_9.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\shooting_1.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\shooting_2.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\GameScreen\Background.scnx
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\GameScreen\LevelCollisionShapes.shcx
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\screens\gamescreen\maverickbackground.png
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\MegaManXSS.exe
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\MegaManXSS.pdb
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\FlatRedBall.dll
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\FlatRedBall.xml
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.csprojResolveAssemblyReference.cache
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.exe
+C:\Users\Tyler.Watson\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\PlatformerCharacterBase\MovementValues.csv
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\SplashScreen\frblogo512.png
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\SplashScreen\SceneFile.scnx
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegamanX.png
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\BusterAnimations.achx
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\BusterProjectileScene.scnx
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\CollisionBoxShapeCollection.shcx
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\Items.png
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\redball.BMP
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\Debugging\DebugWindowEntity\debugFont.fnt
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\Debugging\DebugWindowEntity\debugFont_0.png
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManAnimationChainList.achx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManCollisionBox.shcx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegaManScene.scnx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\PlayerEntities\MegaManEntity\MegamanX.png
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\BusterAnimations.achx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\BusterProjectileScene.scnx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\CollisionBoxShapeCollection.shcx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\GameObjectInstances\ProjectileEntities\PlayerProjectiles\BusterProjectile\Items.png
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Entities\PlatformerCharacterBase\MovementValues.csv
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\GameScreen\Background.scnx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\GameScreen\LevelCollisionShapes.shcx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\screens\gamescreen\maverickbackground.png
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\SplashScreen\frblogo512.png
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\Content\Screens\SplashScreen\SceneFile.scnx
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\MegaManXSS.exe
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\MegaManXSS.pdb
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\FlatRedBall.dll
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\bin\x86\Debug\FlatRedBall.xml
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.exe
+C:\Users\Tyler\Desktop\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Debug\MegaManXSS.pdb

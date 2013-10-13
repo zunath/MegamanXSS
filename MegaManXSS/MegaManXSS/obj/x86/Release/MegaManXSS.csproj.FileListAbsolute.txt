@@ -1,0 +1,2 @@
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MegaManXSS\MegaManXSS\MegaManXSS\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
