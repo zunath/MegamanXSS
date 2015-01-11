@@ -1,4 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
 using FlatRedBall;
+using FlatRedBall.Input;
+using FlatRedBall.AI.Pathfinding;
+using FlatRedBall.Graphics.Animation;
+using FlatRedBall.Graphics.Particle;
+
+using FlatRedBall.Graphics.Model;
+using FlatRedBall.Math.Geometry;
+using FlatRedBall.Math.Splines;
+
+using Cursor = FlatRedBall.Gui.Cursor;
+using GuiManager = FlatRedBall.Gui.GuiManager;
+using FlatRedBall.Localization;
+using MegaManXSS.Entities;
+
+#if FRB_XNA || SILVERLIGHT
+using Keys = Microsoft.Xna.Framework.Input.Keys;
+using Vector3 = Microsoft.Xna.Framework.Vector3;
+using Texture2D = Microsoft.Xna.Framework.Graphics.Texture2D;
+using Color = Microsoft.Xna.Framework.Color;
+using MegaManXSS.Entities.GameObjectInstances.ProjectileEntities.PlayerProjectiles; // If using FlatRedBall XNA 4.0 (namespace changed in XNA framework)
+#endif
 
 namespace MegaManXSS.Screens
 {
@@ -7,13 +31,16 @@ namespace MegaManXSS.Screens
 
 		void CustomInitialize()
         {
-            HandleDebugInitialization();
-            HandleCameraInitialization();
-		    Player1Object.LevelCollision = LevelCollision;
-        }
+            this.HandleDebugInitialization();
+            this.HandleCameraInitialization();
+		}
 
 		void CustomActivity(bool firstTimeCalled)
         {
+            Player1Object.Update(LevelCollision);
+
+            #region Debugging section
+
             if (ShowDebugMenu)
             {
                 DebugWindow.UpdateDebugData(Player1Object);
@@ -23,6 +50,8 @@ namespace MegaManXSS.Screens
             {
                 FPSWindow.UpdateDebugData(TimeManager.SecondDifference);
             }
+
+            #endregion
         }
 
 		void CustomDestroy()

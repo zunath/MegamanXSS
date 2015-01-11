@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShapeCollectionSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AxisAlignedRectangleSaves>
+    <AxisAlignedRectangleSave>
+      <X>0</X>
+      <Y>-100</Y>
+      <Z>0</Z>
+      <ScaleX>1325.35181</ScaleX>
+      <ScaleY>2.50350642</ScaleY>
+      <Name>AxisAlignedRectangle1</Name>
+      <Alpha>1</Alpha>
+      <Red>1</Red>
+      <Green>1</Green>
+      <Blue>0</Blue>
+    </AxisAlignedRectangleSave>
+    <AxisAlignedRectangleSave>
+      <X>-89.2264252</X>
+      <Y>-40.7809334</Y>
+      <Z>0</Z>
+      <ScaleX>13.3069468</ScaleX>
+      <ScaleY>40.5178452</ScaleY>
+      <Name>AxisAlignedRectangle2</Name>
+      <Alpha>1</Alpha>
+      <Red>1</Red>
+      <Green>1</Green>
+      <Blue>0</Blue>
+    </AxisAlignedRectangleSave>
+    <AxisAlignedRectangleSave>
+      <X>57.6857071</X>
+      <Y>-50.5935974</Y>
+      <Z>0</Z>
+      <ScaleX>54.9908638</ScaleX>
+      <ScaleY>10.5677118</ScaleY>
+      <Name>AxisAlignedRectangle3</Name>
+      <Alpha>1</Alpha>
+      <Red>1</Red>
+      <Green>1</Green>
+      <Blue>0</Blue>
+    </AxisAlignedRectangleSave>
+  </AxisAlignedRectangleSaves>
+  <AxisAlignedCubeSaves />
+  <PolygonSaves />
+  <CircleSaves>
+    <CircleSave>
+      <X>103.823936</X>
+      <Y>-80.77546</Y>
+      <Z>0</Z>
+      <Radius>7.687988</Radius>
+      <Name>Circle1</Name>
+      <Alpha>1</Alpha>
+      <Red>1</Red>
+      <Green>0.647058845</Green>
+      <Blue>0</Blue>
+    </CircleSave>
+  </CircleSaves>
+  <SphereSaves />
+</ShapeCollectionSave>

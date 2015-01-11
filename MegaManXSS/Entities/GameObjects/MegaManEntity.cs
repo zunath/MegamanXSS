@@ -4,16 +4,12 @@ using FlatRedBall.Math.Geometry;
 using MegaManXSS.Entities.GameObjectInstances.ProjectileEntities.PlayerProjectiles;
 using FlatRedBall.Math;
 
-namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
-{
-	public partial class MegaManEntity
-    {
-        private const float ShootTimerLength = 0.2f;
-        private const float DashTimerLength = 0.7f;
-        private const float LandingTimerLength = 0.18f;
+namespace MegaManXSS.Entities.GameObjects
         private PositionedObjectList<BusterProjectile> CharacterBullets { get; set; }
-        public ShapeCollection LevelCollision { get; set; }
-
+        private const float _shootTimerLength = 0.2f;
+        private const float _dashTimerLength = 0.7f;
+        private const float _landingTimerLength = 0.18f;
+        
         private void CustomInitialize()
 		{
             CharacterBullets = new PositionedObjectList<BusterProjectile>();
@@ -21,13 +17,9 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
 
 		private void CustomActivity()
 		{
-            HandleGravity();
-            HandleLevelCollision();
-            HandleInput();
-            HandleTimers();
-            HandleFalling();
-
-
+            // This method is fired automatically while this entity is active.
+            // We are manually calling activity methods from the scene because of some issues with default functionality of FRB.
+            // (Collision detection was firing AFTER everything else - we need it BEFORE)
 		}
 
 		private void CustomDestroy()
@@ -40,6 +32,23 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
 
         }
 
+
+
+        #region Update methods
+
+        internal void Update(ShapeCollection levelCollision)
+        {
+            HandleGravity();
+            HandleLevelCollision(levelCollision);
+            HandleInput(levelCollision);
+            HandleTimers();
+            HandleFalling();
+        }
+
+        #endregion
+
+        #region Helper Methods
+
         private void ChangeDirectionalAnimation(Animation leftAnimation, Animation rightAnimation, int frame = -1)
         {
             CurrentAnimationState = IsFacingRight ? rightAnimation : leftAnimation;
@@ -51,10 +60,11 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
             }
         }
 
+	    #endregion
 
-        #region Entity Activity
+        #region Event Handlers
 
-        private void HandleGravity()
+	    private void HandleGravity()
         {
             YAcceleration = -Gravity;
             Drag = CollisionBoxDrag;
@@ -76,10 +86,8 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
             }
 
             SpriteObject.Animate = true;
-
+            
             if (IsJumping || !IsInAir) return;
-
-            // Player is already falling
             if (SpriteObject.CurrentChainName == "FallingRight" || SpriteObject.CurrentChainName == "FallingLeft")
             {
                 // Animation pauses on the second frame. (FYI: Animations are zero-based)
@@ -101,7 +109,7 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
             if (IsShooting && !IsDashing)
             {
                 ShootAnimationTimer += TimeManager.SecondDifference;
-                if (ShootAnimationTimer > ShootTimerLength)
+                if (ShootAnimationTimer > _shootTimerLength)
                 {
                     IsShooting = false;
                     ShootAnimationTimer = 0.0f;
@@ -114,7 +122,7 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
                 DashingTimer += TimeManager.SecondDifference;
 
                 // Continuing a dash.
-                if (InputManager.Keyboard.KeyDown(ControllerConfiguration.DashButton) && DashingTimer <= DashTimerLength)
+                if (InputManager.Keyboard.KeyDown(ControllerConfiguration.DashButton) && DashingTimer <= _dashTimerLength)
                 {
                     if (IsFacingRight && IsOnGround)
                     {
@@ -138,7 +146,7 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
             {
                 LandingTimer += TimeManager.SecondDifference;
 
-                if (LandingTimer > LandingTimerLength)
+                if (LandingTimer > _landingTimerLength)
                 {
                     IsLanding = false;
                     LandingTimer = 0.0f;
@@ -147,7 +155,7 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
 
         }
 
-        private void HandleInput()
+        private void HandleInput(ShapeCollection levelCollision)
         {
             CurrentDirectionState = IsFacingRight ? Direction.Right : Direction.Left;
 
@@ -325,6 +333,7 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
                 }
             }
 
+
             CurrentDirectionState = moveRight ? Direction.Right : Direction.Left;
 
             if (IsShooting)
@@ -356,14 +365,19 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
         {
             XVelocity = 0.0f;
 
-            if (IsJumping || IsInAir) return;
-            if (IsShooting)
+            if (!IsJumping && !IsInAir)
             {
-                ChangeDirectionalAnimation(Animation.ShootingLeftAnimation, Animation.ShootingRightAnimation);
-            }
-            else if(!IsLanding)
-            {
-                CurrentAnimationState = Animation.IdleAnimation;
+                if (IsShooting)
+                {
+                    ChangeDirectionalAnimation(Animation.ShootingLeftAnimation, Animation.ShootingRightAnimation);
+                }
+                else
+                {
+                    if (!IsLanding)
+                    {
+                        CurrentAnimationState = Animation.IdleAnimation;
+                    }
+                }
             }
         }
 
@@ -395,9 +409,13 @@ namespace MegaManXSS.Entities.GameObjectInstances.PlayerEntities
 
         #region Collision Detection and Handling
 
-        private void HandleLevelCollision()
+        /// <summary>
+        /// Event handling for collision with a level's collision box.
+        /// </summary>
+        /// <param name="levelCollision"></param>
+        private void HandleLevelCollision(ShapeCollection levelCollision)
         {
-            if (LevelCollision.CollideAgainstMove(CollisionBox, 1, 0))
+            if (levelCollision.CollideAgainstMove(CollisionBox, 1, 0))
             {
                 // Player is on the ground
                 if (CollisionBox.LastMoveCollisionReposition.Y > 0)
